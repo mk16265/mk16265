@@ -1,7 +1,7 @@
 ## Name
 MK
 ## Langage
-python,C
+Python,C
 ## Hobby
 listen to music 
 ## Eat
