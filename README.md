@@ -2,11 +2,11 @@
 
 profile
 
-Language
-・C
-・Python
-・Java
-・Javascript
+- Language
+- ・C
+- ・Python
+- ・Java
+- ・Javascript
 
 
 
