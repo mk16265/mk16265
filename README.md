@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-##profile
+profile
 
-##Language
+Language
 ・C
 ・Python
 ・Java
