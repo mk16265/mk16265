@@ -3,10 +3,10 @@
 profile
 
 - Language
-- ・C
-- ・Python
-- ・Java
-- ・Javascript
+- C
+- Python
+- Java
+- Javascript
 
 
 
