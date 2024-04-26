@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-profile
+ profile
 
 - Language
 - C
